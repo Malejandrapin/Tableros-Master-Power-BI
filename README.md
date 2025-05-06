@@ -5,7 +5,7 @@ Bienvenido/a a mi portafolio de dashboards realizados con Power BI. Aquí puede 
 
 ## 🚀 Dashboards Disponibles
 
-- [Servicio de atención al cliente]()
+- [Seguimiento de servicios]()
   
 - [Análisis de personal]()
 - [Seguimiento financiero, an+alisis de tiendas ubicadas en Brasil]()
