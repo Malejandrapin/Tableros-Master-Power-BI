@@ -5,8 +5,9 @@ Bienvenido/a a mi portafolio de dashboards realizados con Power BI. Aquí puede 
 
 ## 🚀 Dashboards Disponibles
 
-- [Seguimiento de servicios]()
-  
+- [Seguimiento de servicios](https://github.com/Malejandrapin/Tableros-Master-Power-BI/tree/b870f200c658ef2eb2b2d4dc875fa9f4e11c4610/Seguimiento%20de%20servicios)
+ <image src="/Seguimiento de servicios/Dashboard seguimiento de servicios.png">
+ 
 - [Análisis de personal]()
 - [Seguimiento financiero, an+alisis de tiendas ubicadas en Brasil]()
 <!-- - [Gestión de Recursos Humanos](./RecursosHumanos)-->
