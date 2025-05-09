@@ -10,10 +10,10 @@ Cada proyecto incluye una descripción, objetivo, KPIs Destacados, Capturas, Ins
 - ## [Seguimiento de servicios](https://github.com/Malejandrapin/Tableros-Master-Power-BI/tree/b422f1bdf22fc6bcd2091b3237988b2edee96e1b/Seguimiento%20de%20servicios)
  <image src="/Seguimiento de servicios/Dashboard seguimiento de servicios.png">
  
-- ## [Análisis de personal](https://github.com/Malejandrapin/Tableros-Master-Power-BI/tree/6ff29a09ba55fdf2bb1e44ab580071f83529ceec/Analisis%20de%20personal)
+- ## [Análisis de personal](https://github.com/Malejandrapin/Tableros-Master-Power-BI/tree/62759f8d11ed4d527731926bd48c860e19a50d24/Analisis%20de%20personal)
  <image src="/Analisis de personal/Dashboard Analisis de Personal.png">
  
-- ## [Analisis de ventas en tiendas](https://github.com/Malejandrapin/Tableros-Master-Power-BI/tree/6ff29a09ba55fdf2bb1e44ab580071f83529ceec/Analisis%20de%20ventas)
+- ## [Analisis de ventas en tiendas](https://github.com/Malejandrapin/Tableros-Master-Power-BI/tree/62759f8d11ed4d527731926bd48c860e19a50d24/Analisis%20de%20ventas)
  <image src="/Analisis de ventas/Dashboard Analisis de ventas .png">
 <!-- - [Gestión de Recursos Humanos](./RecursosHumanos)-->
 
