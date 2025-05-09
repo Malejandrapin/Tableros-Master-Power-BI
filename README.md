@@ -35,3 +35,4 @@ Cada proyecto incluye una descripción, objetivo, KPIs Destacados, Capturas, Ins
 📧 dismajus@gmail.com<br/>
 💼 [LinkedIn](https://www.linkedin.com/in/maira-alejandra-pinilla-pinilla)
 
+# 🔜Trabajando en nuevos análisis y deashboards🔜
