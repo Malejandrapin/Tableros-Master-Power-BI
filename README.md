@@ -3,7 +3,7 @@
 
 Bienvenido a mi portafolio de dashboards desarrollados con Power BI.
 Aquí encontrarás una selección de proyectos prácticos que he elaborado durante mi formación en el Máster de Power BI de Daxus Latam.<br/>
-Cada proyecto incluye una descripción, capturas y archivos .pbix para su exploración.
+Cada proyecto incluye una descripción, objetivo, KPIs Destacados, Capturas, Insights relevantes y archivos .pbix para su exploración.
 
 ## 🚀 Dashboards Disponibles
 
